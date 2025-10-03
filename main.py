@@ -57,14 +57,16 @@
 # print("\n Is 'London' a value in dictinary:", "London" in Persone["City"])
 # print(Persone)
 
-# Exercice 4
+# # Exercice 5
 
-Set_of_numb_1 = {0,1,2,3,4,5,6,7,8,9,10}
-Set_of_numb_2 ={0.5,1.5,2.5,3.5,4.5,5.5,6.5,7.5,8.5,9.5,10.5}
-Set_3 = Set_of_numb_1.union(Set_of_numb_2)
-Set_4 = Set_of_numb_1 | Set_of_numb_2
-print(Set_3)
-print(Set_4)
+# Book1 = {"Title": "Power48" ,"Author" : "Robert.G" ,"Year" : "1999"}
+# print(Book1)
 
+# Book2 = {"Title" : "Stranger" ,"Author" : "Camus" ,"Year" : "1942"}
+# print(Book2)
 
+# Dictionaries = [Book1, Book2]
+# print(Dictionaries)
 
+# Book1["New book"] = "Mastery"
+# print(Dictionaries)
